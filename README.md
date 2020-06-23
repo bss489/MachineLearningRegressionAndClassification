@@ -2,16 +2,16 @@
 
 Different Machine Learning Techniques used:
 
-tree.DecisionTreeRegressor(),
-GaussianProcessRegressor(),
-neighbors.KNeighborsRegressor(n_neighbors=15),
-svm.SVR(),
-linear_model.SGDRegressor(),
-linear_model.BayesianRidge(),
-linear_model.LassoLars(),
-linear_model.ARDRegression(),
-linear_model.PassiveAggressiveRegressor(),
-linear_model.TheilSenRegressor(),
-linear_model.LinearRegression(),
-XGBRegressor(),
+tree.DecisionTreeRegressor() <br />
+GaussianProcessRegressor() <br />
+neighbors.KNeighborsRegressor(n_neighbors=15) <br />
+svm.SVR() <br />
+linear_model.SGDRegressor() <br />
+linear_model.BayesianRidge() <br />
+linear_model.LassoLars() <br />
+linear_model.ARDRegression() <br />
+linear_model.PassiveAggressiveRegressor() <br />
+linear_model.TheilSenRegressor() <br />
+linear_model.LinearRegression() <br />
+XGBRegressor() <br />
 RandomForestRegressor()
